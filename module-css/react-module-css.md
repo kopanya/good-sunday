@@ -1,4 +1,4 @@
-# vue-module-css
+# react-module-css
 文章主要介绍在webpack打包工具下，模块化开发CSS在React的实践。
 
 ## 前提
