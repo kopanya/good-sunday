@@ -1,0 +1,2 @@
+GraphicsMagick Display (64-bit)
+ImageMagick Display
